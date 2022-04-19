@@ -1,7 +1,5 @@
-# pokemon-battles
+# Pokemon-Battles -  for classes - Machine Learning - during studies
 
-A project for classes - Machine Learning - during studies
+Predict a winning Pokemon!
 
-Model - predict a winning Pokemon
-
-I took data set from : https://www.kaggle.com/search?q=pokemon
+Data set from : https://www.kaggle.com/search?q=pokemon
