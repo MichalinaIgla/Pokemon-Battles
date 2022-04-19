@@ -11,6 +11,7 @@ Lets see our data:
 
 <img src="https://user-images.githubusercontent.com/50525581/164000141-9ca96b97-4f25-448c-8249-edf2beed5b08.png" alt="drawing" width="700"/>
 
+<img src="https://user-images.githubusercontent.com/50525581/164006943-955b67b1-81bf-4cb3-8ebc-e88d62758079.png" alt="drawing" width="300"/>
 > Lets modify and display our data:
 
 <img src="https://user-images.githubusercontent.com/50525581/163991328-49f9f1a3-6b2f-4516-947e-f42adac6c354.png" alt="drawing" width="400"/>
