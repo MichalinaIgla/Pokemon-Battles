@@ -2,59 +2,67 @@
 
 Predict a winning Pokemon!
 
+
 # About dataset:
 >  `Data set from Kaggle` : https://www.kaggle.com/search?q=pokemon
-![image](https://user-images.githubusercontent.com/50525581/164000141-9ca96b97-4f25-448c-8249-edf2beed5b08.png)
 
 
-Each pokeon can have 2 types:
+Lets see our data:
+
+<img src="https://user-images.githubusercontent.com/50525581/164000141-9ca96b97-4f25-448c-8249-edf2beed5b08.png" alt="drawing" width="700"/>
+
+> Lets modify and display our data:
 
 <img src="https://user-images.githubusercontent.com/50525581/163991328-49f9f1a3-6b2f-4516-947e-f42adac6c354.png" alt="drawing" width="400"/>
 
+ 
+> Let's check how what is important in winning:
+
+<img src="https://user-images.githubusercontent.com/50525581/163991181-fd97e3e6-c478-4e07-9a52-81d73e056e12.png" alt="drawing" width="450"/>
+
+> We can see (also from chart above) how much speed is important in winning:
+
+
+<img src="https://user-images.githubusercontent.com/50525581/163991345-31208c97-2dc2-45ef-bea6-5cf0a5be3e74.png" alt="drawing" width="200"/>
 
 
 
-![image](https://user-images.githubusercontent.com/50525581/163991181-fd97e3e6-c478-4e07-9a52-81d73e056e12.png)
-![image](https://user-images.githubusercontent.com/50525581/163991345-31208c97-2dc2-45ef-bea6-5cf0a5be3e74.png)
-
-
-
+# Let's crreate ML models:
 
 Linear Reggresion:
 
-![image](https://user-images.githubusercontent.com/50525581/163991048-a752c870-50c6-442f-bfb4-5789f380b1c6.png)
-
+<img src="https://user-images.githubusercontent.com/50525581/163991048-a752c870-50c6-442f-bfb4-5789f380b1c6.png" alt="drawing" width="200"/>
 
  
 With One-hot encoding:
 
+<img src="https://user-images.githubusercontent.com/50525581/163991085-4722e273-de0a-46c7-a884-ce6d6c8db61c.png" alt="drawing" width="200"/>
 
-![image](https://user-images.githubusercontent.com/50525581/163991085-4722e273-de0a-46c7-a884-ce6d6c8db61c.png)
-
-
-![image](https://user-images.githubusercontent.com/50525581/163988802-b8dfdfb4-e396-43c5-92be-0ea7d46f4bad.png)
 
 LinearSVR:
-![image](https://user-images.githubusercontent.com/50525581/163989423-df51d475-61e0-4923-9ee2-fc633069d490.png)
+
+<img src="https://user-images.githubusercontent.com/50525581/163989423-df51d475-61e0-4923-9ee2-fc633069d490.png" alt="drawing" width="200"/>
 
 DecisionTreeRegressor:
 
-![image](https://user-images.githubusercontent.com/50525581/163989450-4e5fafc4-5397-4ed7-93db-c17bc6210d6a.png)
+<img src="https://user-images.githubusercontent.com/50525581/163989450-4e5fafc4-5397-4ed7-93db-c17bc6210d6a.png" alt="drawing" width="200"/>
 
 
 Predict a winning Pokemon:
-![image](https://user-images.githubusercontent.com/50525581/163989572-f5745ac4-c2d8-4423-ba24-93bc458ca271.png)
+
+<img src="https://user-images.githubusercontent.com/50525581/163989572-f5745ac4-c2d8-4423-ba24-93bc458ca271.png" alt="drawing" width="500"/>
 
 How many predictions are correct:
-![image](https://user-images.githubusercontent.com/50525581/163989551-9738a15c-5e16-4dcb-b244-876285d5e9ce.png)
 
-For example:
-![image](https://user-images.githubusercontent.com/50525581/163989688-b42e9da5-cc74-4018-ba7d-fa78bbd791e0.png)
-vs
-![image](https://user-images.githubusercontent.com/50525581/163989708-eadd128c-19a5-4b2f-b41f-c308a13cd5e3.png)
-
-Pokemon with index 0 won!
-![image](https://user-images.githubusercontent.com/50525581/163989736-9f5bb058-7f16-4491-b0e9-19028dfcb404.png)
+<img src="https://user-images.githubusercontent.com/50525581/163989551-9738a15c-5e16-4dcb-b244-876285d5e9ce.png" alt="drawing" width="300"/>
 
 
-![image](https://user-images.githubusercontent.com/50525581/163991398-959b4f40-d84b-4dff-b944-fd938e19a7dd.png)
+Example battle:
+
+
+<img src="https://user-images.githubusercontent.com/50525581/163991398-959b4f40-d84b-4dff-b944-fd938e19a7dd.png" alt="drawing" width="800"/>
+
+> Pokemon with index 0 won - Exploud!
+
+
+`To see how data are modify and how models are made check Igla_Pokemons.ipynb file`
