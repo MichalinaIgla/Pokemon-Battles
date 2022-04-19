@@ -16,7 +16,7 @@ Lets see our data:
 <img src="https://user-images.githubusercontent.com/50525581/163991328-49f9f1a3-6b2f-4516-947e-f42adac6c354.png" alt="drawing" width="400"/>
 
  
-> Let's check how what is important in winning:
+> Let's check how attributes are important in winning:
 
 <img src="https://user-images.githubusercontent.com/50525581/163991181-fd97e3e6-c478-4e07-9a52-81d73e056e12.png" alt="drawing" width="450"/>
 
@@ -65,4 +65,4 @@ Example battle:
 > Pokemon with index 0 won - Exploud!
 
 
-`To see how data are modify and how models are made check Igla_Pokemons.ipynb file`
+`NOTE: To see how data are modify, and how models are made check Igla_Pokemons.ipynb file`
