@@ -51,7 +51,7 @@ DecisionTreeRegressor:
 <img src="https://user-images.githubusercontent.com/50525581/163989450-4e5fafc4-5397-4ed7-93db-c17bc6210d6a.png" alt="drawing" width="200"/>
 
 
-Predict a winning Pokemon:
+Keras Sequential - Predict a winning Pokemon:
 
 <img src="https://user-images.githubusercontent.com/50525581/163989572-f5745ac4-c2d8-4423-ba24-93bc458ca271.png" alt="drawing" width="500"/>
 
