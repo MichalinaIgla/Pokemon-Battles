@@ -11,12 +11,14 @@ Lets see our data:
 
 <img src="https://user-images.githubusercontent.com/50525581/164000141-9ca96b97-4f25-448c-8249-edf2beed5b08.png" alt="drawing" width="700"/>
 
-<img src="https://user-images.githubusercontent.com/50525581/164006943-955b67b1-81bf-4cb3-8ebc-e88d62758079.png" alt="drawing" width="300"/>
-> Lets modify and display our data:
+
+`NOTE: To see how data are modify, and how models are made check Igla_Pokemons.ipynb file`
+# Lets modify and display our data:
+> How many types of pokemons we have:
 
 <img src="https://user-images.githubusercontent.com/50525581/163991328-49f9f1a3-6b2f-4516-947e-f42adac6c354.png" alt="drawing" width="400"/>
 
- 
+
 > Let's check how attributes are important in winning:
 
 <img src="https://user-images.githubusercontent.com/50525581/163991181-fd97e3e6-c478-4e07-9a52-81d73e056e12.png" alt="drawing" width="450"/>
@@ -66,4 +68,4 @@ Example battle:
 > Pokemon with index 0 won - Exploud!
 
 
-`NOTE: To see how data are modify, and how models are made check Igla_Pokemons.ipynb file`
+
