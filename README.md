@@ -68,4 +68,9 @@ Example battle:
 > Pokemon with index 0 won - Exploud!
 
 
-
+## Technologies used:
+- Python 3
+- keras
+- numpy
+- pandas
+- sklearn
