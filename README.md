@@ -1,4 +1,4 @@
-# Pokemon-Battles -  for classes - Machine Learning - during studies
+# Pokemon-Battles - Machine Learning Project for Classes - during studies
 
 Predict a winning Pokemon!
 
