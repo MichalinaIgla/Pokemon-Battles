@@ -4,6 +4,7 @@ Predict a winning Pokemon!
 
 # About dataset:
 >  `Data set from Kaggle` : https://www.kaggle.com/search?q=pokemon
+![image](https://user-images.githubusercontent.com/50525581/164000141-9ca96b97-4f25-448c-8249-edf2beed5b08.png)
 
 
 Each pokeon can have 2 types:
