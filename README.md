@@ -4,6 +4,14 @@ Predict a winning Pokemon!
 
 #### `Data set from Kaggle` : https://www.kaggle.com/search?q=pokemon
 
+About dataset:
+![image](https://user-images.githubusercontent.com/50525581/163991328-49f9f1a3-6b2f-4516-947e-f42adac6c354.png)
+![image](https://user-images.githubusercontent.com/50525581/163991294-60375ecc-ac85-40e7-931f-0293fbd270a1.png)
+![image](https://user-images.githubusercontent.com/50525581/163991345-31208c97-2dc2-45ef-bea6-5cf0a5be3e74.png)
+
+![image](https://user-images.githubusercontent.com/50525581/163991181-fd97e3e6-c478-4e07-9a52-81d73e056e12.png)
+
+
 Linear Reggresion:
 
 ![image](https://user-images.githubusercontent.com/50525581/163991048-a752c870-50c6-442f-bfb4-5789f380b1c6.png)
@@ -39,3 +47,6 @@ vs
 
 Pokemon with index 0 won!
 ![image](https://user-images.githubusercontent.com/50525581/163989736-9f5bb058-7f16-4491-b0e9-19028dfcb404.png)
+
+
+![image](https://user-images.githubusercontent.com/50525581/163991398-959b4f40-d84b-4dff-b944-fd938e19a7dd.png)
