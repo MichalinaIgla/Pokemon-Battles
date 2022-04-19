@@ -2,14 +2,21 @@
 
 Predict a winning Pokemon!
 
-#### `Data set from Kaggle` : https://www.kaggle.com/search?q=pokemon
+# About dataset:
+>  `Data set from Kaggle` : https://www.kaggle.com/search?q=pokemon
 
-About dataset:
-![image](https://user-images.githubusercontent.com/50525581/163991328-49f9f1a3-6b2f-4516-947e-f42adac6c354.png)
-![image](https://user-images.githubusercontent.com/50525581/163991294-60375ecc-ac85-40e7-931f-0293fbd270a1.png)
-![image](https://user-images.githubusercontent.com/50525581/163991345-31208c97-2dc2-45ef-bea6-5cf0a5be3e74.png)
+
+Each pokeon can have 2 types:
+
+<img src="https://user-images.githubusercontent.com/50525581/163991328-49f9f1a3-6b2f-4516-947e-f42adac6c354.png" alt="drawing" width="400"/>
+
+
+
 
 ![image](https://user-images.githubusercontent.com/50525581/163991181-fd97e3e6-c478-4e07-9a52-81d73e056e12.png)
+![image](https://user-images.githubusercontent.com/50525581/163991345-31208c97-2dc2-45ef-bea6-5cf0a5be3e74.png)
+
+
 
 
 Linear Reggresion:
